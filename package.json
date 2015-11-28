@@ -13,6 +13,14 @@
     "bitbucket"
   ],
   "author": "Jeremy Dagorn",
+  "bugs" {
+      "url" : "https://github.com/jrm2k6/contwidgetor-ui/issues",
+      "email": "jeremy.dagorn@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrm2k6/contwidgetor-ui"
+  },
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.1",
@@ -28,5 +36,19 @@
     "babel-preset-react": "^6.1.18",
     "mocha": "^2.3.4",
     "jest": "^0.1.40"
+  },
+  "files": {
+    "src/",
+    "lib/",
+    "tests/",
+    "Example/",
+    "LICENSE"
+  },
+  "keyword": {
+    "react",
+    "github",
+    "bitbucket",
+    "open-source",
+    "react-component"
   }
 }
