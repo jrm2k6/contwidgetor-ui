@@ -13,7 +13,7 @@
     "bitbucket"
   ],
   "author": "Jeremy Dagorn",
-  "bugs" {
+  "bugs": {
       "url" : "https://github.com/jrm2k6/contwidgetor-ui/issues",
       "email": "jeremy.dagorn@gmail.com"
   },
