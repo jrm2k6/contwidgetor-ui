@@ -37,18 +37,18 @@
     "mocha": "^2.3.4",
     "jest": "^0.1.40"
   },
-  "files": {
+  "files": [
     "src/",
     "lib/",
     "tests/",
     "Example/",
     "LICENSE"
-  },
-  "keyword": {
+  ],
+  "keywords": [
     "react",
     "github",
     "bitbucket",
     "open-source",
     "react-component"
-  }
+  ]
 }
