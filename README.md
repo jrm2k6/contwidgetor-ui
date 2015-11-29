@@ -15,9 +15,9 @@ Calling ```require('contwidgetor-ui');``` makes two components available.
 There is a working example in the ```Example``` folder.
 To run it:
 
-- ```cd Example```
-- ```npm install```
-- ```webpack```
-- ```open index.html```
-
-You should see something like this:
+```
+cd Example
+npm install
+webpack
+open index.html
+```
